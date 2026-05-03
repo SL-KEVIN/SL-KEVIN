@@ -1,90 +1,107 @@
 <h1 align="center">Kevin Bandara</h1>
+
 <p align="center">
-Building Scalable Systems • AI Architect • Founder @ Licoryx Technologies
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems;Full-Stack+Architect;Founder+%40+Licoryx+Technologies;Engineering+Systems+That+Actually+Scale" />
+</p>
+
+<p align="center">
+  <b>AI Architect • Full-Stack Engineer • Founder</b>
 </p>
 
 ---
 
-## 🚀 About Me
-I build systems that scale—not just projects. 
+## 🧠 Overview
+I design and build **scalable systems** — not just apps.
 
-As the **Founder and CEO of Licoryx Technologies**, I focus on engineering AI-integrated platforms and high-performance applications designed for real-world growth. My work bridges the gap between complex backend architecture and minimalist, functional user experiences.
+As the Founder of **Licoryx Technologies**, I focus on engineering **AI-powered platforms** and **high-performance infrastructures** that operate under real-world scale.
 
-I operate as an **Engineer, Architect, and Developer**, focusing on precision, scalability, and high-performance intelligent systems.
-
----
-
-## ⚙️ What I Do
-- **Architect Scalable Systems**: Designing web and mobile infrastructures capable of handling massive user growth.
-- **AI Engineering**: Building intelligent systems and custom bots, including **MemoAI** which reached a milestone of **300,000+ users**.
-- **Full-Stack Leadership**: Leading technical communities and educational platforms like **PaperWikipedia**, serving over **140,000 subscribers**.
-- **Native Development**: Currently scaling **DanumaAI** from a specialized Telegram bot into a native Android ecosystem.
+My work sits at the intersection of:
+- **System Architecture**
+- **AI Integration**
+- **Product Engineering**
 
 ---
 
-## 🧠 Current Focus
-- **AI Observability**: Implementing LLM monitoring and agentic workflows using Langfuse and PostHog.
-- **Native Ecosystems**: Developing cross-platform mobile experiences with **React Native & Expo**.
-- **High-Performance Backends**: Optimizing systems using **Next.js, Laravel, and Node.js**.
-- **Research**: Contributing to scientific research in publications like SciSpark Magazine.
+## ⚡ Impact
+<p align="center">
+  <img src="https://img.shields.io/badge/Users-300K+-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platforms-AI%20Systems-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalability-000000?style=for-the-badge" />
+</p>
+
+- Built AI systems like **MemoAI** reaching **300,000+ users**  
+- Scaled educational platforms like **PaperWikipedia (140K+ audience)**  
+- Developing **DanumaAI** into a full native ecosystem  
 
 ---
 
-## 🛠️ Languages and Tools
+## ⚙️ Core Work
+- **System Architecture** → Designing infrastructures that scale without breaking  
+- **AI Engineering** → LLM-based tools, automation, and intelligent systems  
+- **Full-Stack Development** → End-to-end product building  
+- **Platform Growth** → Turning ideas into scalable ecosystems  
 
-### Programming Languages
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,dart,php,kotlin,cs" />
 </p>
 
-### Web & App Development
+### 🌐 Web & App
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,html,css,tailwind,bootstrap,firebase,laravel" />
 </p>
 
-### Backend & Infrastructure
+### ⚙️ Backend & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,django,docker,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,django,docker,cloudflare" />
 </p>
 
-### Databases & Cloud
+### 🗄️ Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,mysql,postgres,gcp" />
 </p>
 
-### AI & Machine Learning
+### 🤖 AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### Creative & Media Tools
+### 🎨 Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,pr,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,pr,ae" />
 </p>
 
-### Other Tools & Platforms
+### 🧩 Others
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,gcp,git,linux,ubuntu,arch,androidstudio,arduino,wordpress,discordjs" />
+  <img src="https://skillicons.dev/icons?i=unity,git,linux,ubuntu,arch,androidstudio,arduino,wordpress,discordjs" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
-`Next.js` • `Laravel` • `Node.js` • `React Native` • `Expo` • `AI Systems` • `System Design`
+## 🧭 Current Focus
+- LLM observability & agent systems  
+- Scaling AI platforms into production  
+- High-performance backend optimization  
+- Cross-platform mobile ecosystems  
 
 ---
 
 ## 🥋 Beyond Code
-**Black Belt in Taekwondo.**  
-Engineering and Martial Arts share the same DNA: Discipline, under-pressure execution, and constant iteration. Same mindset, different arena.
+Black Belt in Taekwondo.
+
+Discipline, control, execution — same principles, applied to engineering.
 
 ---
 
 ## 📬 Connect
-Reach out through **Licoryx Technologies** or my professional portfolio.
+Through **Licoryx Technologies** or portfolio.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Systems;Full-Stack+Architect;Founder+@+Licoryx;Shipping+Real+Products" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
