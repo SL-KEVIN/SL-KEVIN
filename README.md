@@ -30,33 +30,26 @@ I work across the full stack, with a strong focus on **architecture, scalability
 
 ---
 
-## 🧩 Experience
-- Systems serving **300,000+ users**  
-- Built AI tools like **MemoAI**  
-- Worked on educational platforms like **PaperWikipedia**  
-
----
-
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,dart,php,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,dart,php,kotlin,cs" />
 </p>
 
-### Web Development
+### Web & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,django,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,html,css,tailwind,bootstrap" />
 </p>
 
-### Databases & Tools
+### Backend & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,django,docker,cloudflare" />
 </p>
 
-### Operating Systems
+### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,android,apple,arch" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,gcp" />
 </p>
 
 ### AI & Machine Learning
@@ -64,6 +57,15 @@ I work across the full stack, with a strong focus on **architecture, scalability
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+### Creative & Media Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premierepro" />
+</p>
+
+### Other Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,git,linux,ubuntu,arch,androidstudio" />
+</p>
 ---
 
 ## ⚡ Tech Stack
