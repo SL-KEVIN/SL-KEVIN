@@ -1,7 +1,7 @@
 <h1 align="center">Kevin Bandara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems;Full-Stack+Architect;Founder+%40+Licoryx+Technologies;Engineering+Systems+That+Actually+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems;Full-Stack+Architect;Founder+%40+Lycoryx+Technologies;Engineering+Systems+That+Actually+Scale" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 🧠 Overview
 I design and build **scalable systems** — not just apps.
 
-As the Founder of **Licoryx Technologies**, I focus on engineering **AI-powered platforms** and **high-performance infrastructures** that operate under real-world scale.
+As the Founder of **Lycoryx Technologies**, I focus on engineering **AI-powered platforms** and **high-performance infrastructures** that operate under real-world scale.
 
 My work sits at the intersection of:
 - **System Architecture**
