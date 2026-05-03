@@ -1,32 +1,32 @@
 <h1 align="center">Kevin Bandara</h1>
 <p align="center">
-Building scalable systems • AI Engineer • Founder @ Lycoryx
+Building Scalable Systems • AI Architect • Founder @ Licoryx Technologies
 </p>
 
 ---
 
 ## 🚀 About Me
-I build systems that scale — not just projects.
+I build systems that scale—not just projects. 
 
-Founder of **Lycoryx Technologies**, focused on creating AI-powered platforms and high-performance applications used in real-world environments.
+As the **Founder and CEO of Licoryx Technologies**, I focus on engineering AI-integrated platforms and high-performance applications designed for real-world growth. My work bridges the gap between complex backend architecture and minimalist, functional user experiences.
 
-I work across the full stack, with a strong focus on **architecture, scalability, and intelligent systems**.
+I operate as an **Engineer, Architect, and Developer**, focusing on precision, scalability, and high-performance intelligent systems.
 
 ---
 
 ## ⚙️ What I Do
-- Architect scalable web & mobile applications  
-- Build AI-powered systems for large user bases  
-- Design backend infrastructure that handles growth  
-- Lead and grow technical communities into platforms  
+- **Architect Scalable Systems**: Designing web and mobile infrastructures capable of handling massive user growth.
+- **AI Engineering**: Building intelligent systems and custom bots, including **MemoAI** which reached a milestone of **300,000+ users**.
+- **Full-Stack Leadership**: Leading technical communities and educational platforms like **PaperWikipedia**, serving over **140,000 subscribers**.
+- **Native Development**: Currently scaling **DanumaAI** from a specialized Telegram bot into a native Android ecosystem.
 
 ---
 
 ## 🧠 Current Focus
-- LLM observability & agent workflows  
-- Scaling **DanumaAI** into production  
-- Cross-platform development with React Native & Expo  
-- High-performance systems with Next.js, Laravel, Node.js  
+- **AI Observability**: Implementing LLM monitoring and agentic workflows using Langfuse and PostHog.
+- **Native Ecosystems**: Developing cross-platform mobile experiences with **React Native & Expo**.
+- **High-Performance Backends**: Optimizing systems using **Next.js, Laravel, and Node.js**.
+- **Research**: Contributing to scientific research in publications like SciSpark Magazine.
 
 ---
 
@@ -66,6 +66,7 @@ I work across the full stack, with a strong focus on **architecture, scalability
 <p>
   <img src="https://skillicons.dev/icons?i=unity,gcp,git,linux,ubuntu,arch,androidstudio,arduino,wordpress,discordjs" />
 </p>
+
 ---
 
 ## ⚡ Tech Stack
@@ -74,16 +75,16 @@ I work across the full stack, with a strong focus on **architecture, scalability
 ---
 
 ## 🥋 Beyond Code
-Black Belt in Taekwondo.  
-Discipline, pressure, execution — same mindset, different arena.
+**Black Belt in Taekwondo.**  
+Engineering and Martial Arts share the same DNA: Discipline, under-pressure execution, and constant iteration. Same mindset, different arena.
 
 ---
 
 ## 📬 Connect
-Reach out via portfolio or Lycoryx official channels.
+Reach out through **Licoryx Technologies** or my professional portfolio.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Systems;Full-Stack+Engineer;Founder;Shipping+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Systems;Full-Stack+Architect;Founder+@+Licoryx;Shipping+Real+Products" />
 </p>
