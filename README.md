@@ -39,7 +39,7 @@ I work across the full stack, with a strong focus on **architecture, scalability
 
 ### Web & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,html,css,tailwind,bootstrap,firebase,laravel" />
 </p>
 
 ### Backend & Infrastructure
@@ -49,7 +49,7 @@ I work across the full stack, with a strong focus on **architecture, scalability
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,gcp" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,mysql,postgres,gcp" />
 </p>
 
 ### AI & Machine Learning
@@ -59,24 +59,17 @@ I work across the full stack, with a strong focus on **architecture, scalability
 
 ### Creative & Media Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premierepro" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,pr,aftereffects" />
 </p>
 
 ### Other Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,git,linux,ubuntu,arch,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=unity,gcp,git,linux,ubuntu,arch,androidstudio,arduino,wordpress,discordjs" />
 </p>
 ---
 
 ## ⚡ Tech Stack
 `Next.js` • `Laravel` • `Node.js` • `React Native` • `Expo` • `AI Systems` • `System Design`
-
----
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinBandara&show_icons=true&theme=default" />
-</p>
 
 ---
 
